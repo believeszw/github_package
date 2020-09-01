@@ -1,4 +1,4 @@
-# <font face="黑体" color=red size=6> 《美杜莎传奇》游戏公会会员福利
+<font face="黑体" color=red size=6> 《美杜莎传奇》游戏公会会员福利
 好消息！！好消息！！《美杜莎传奇》游戏推广公会，给游戏发烧友送福利来啦！！ </font>
 
 
@@ -100,7 +100,7 @@
 
 
 
-# 如何享受《美杜莎传奇》推广公会福利返利
+<font face="黑体" color=blace size=4> <b><center>如何享受《美杜莎传奇》推广公会福利返利</center></b></font>
 
 <font face="黑体" color=red size=5> <b>
 * 第一步：点击下方《游戏下载》，下载安装包并安装游戏
