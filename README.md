@@ -1,5 +1,5 @@
 
-<!-- <table class="table table-bordered table-striped table-condensed" border="0">
+<table class="table table-bordered table-striped table-condensed" border="0">
   <tr>
     <td>
       <img src="picture_up.jpg">
@@ -7,9 +7,9 @@
     </td>
   </tr>
 
-</table> -->
+</table>
 
-<table >
+<!-- <table >
   <tr>
     <td>
       <img src="picture_up.jpg">
@@ -31,4 +31,4 @@
 	td{
 	background-color: #ffe;
 	}
-</style>
+</style> -->
